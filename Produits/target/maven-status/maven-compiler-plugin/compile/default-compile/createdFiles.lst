@@ -1,0 +1,9 @@
+tn\esprit\Microservices\services\IProduitService.class
+tn\esprit\Microservices\controllers\ProduitController.class
+tn\esprit\Microservices\payload\request\SignupRequest.class
+tn\esprit\Microservices\entities\Produit.class
+tn\esprit\Microservices\payload\request\LoginRequest.class
+tn\esprit\Microservices\repositories\ProduitRepository.class
+tn\esprit\Microservices\payload\response\MessageResponse.class
+tn\esprit\Microservices\payload\response\UserInfoResponse.class
+tn\esprit\Microservices\services\ProduitServiceImp.class
